@@ -30,4 +30,5 @@ Application loads with no errors.
 
 ## Notes
 
-Live link: 
+Live link: (https://leybaair.github.io/Challenge_1_Marketing/)
+Image Screen Shot: ![On a desktop, image displays finished project]("C:\Users\leyba\Desktop\Develop\Challenge_1_Marketing\assets\images\Finished Project Image.png")
