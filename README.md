@@ -30,4 +30,4 @@ Application loads with no errors.
 
 ## Notes
 
-Live link: 
+Live link: (https://leybaair.github.io/Challenge_1_Marketing/)
